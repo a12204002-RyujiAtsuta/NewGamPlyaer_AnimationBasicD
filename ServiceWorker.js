@@ -1,9 +1,9 @@
-const cacheName = "AtsutaRyuji-New_Social_Game-0.5.4_WebGL";
+const cacheName = "AtsutaRyuji-New_Social_Game-0.5.5_WebGL";
 const contentToCache = [
     "Build/NewGamPlyaer_AnimationBasicD.loader.js",
-    "Build/NewGamPlyaer_AnimationBasicD.framework.js",
-    "Build/NewGamPlyaer_AnimationBasicD.data",
-    "Build/NewGamPlyaer_AnimationBasicD.wasm",
+    "Build/6f0e6a6228d6dcc942060f2bfb824b0c.js",
+    "Build/808f464b974958fd0e735d91bb1a5cac.data",
+    "Build/37688cfd5942c7119e17ac4860519e43.wasm",
     "TemplateData/style.css"
 
 ];
