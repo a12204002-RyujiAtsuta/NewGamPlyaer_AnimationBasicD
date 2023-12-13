@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const cacheName = "AtsutaRyuji-New_Social_Game-0.6.2_WebGL";
+=======
+const cacheName = "AtsutaRyuji-New_Social_Game-0.6.1_WebGL";
+>>>>>>> 5c745d8bfe76793149f42060e1860a2d6cdd5659
 const contentToCache = [
     "Build/NewGamPlyaer_AnimationBasicD.loader.js",
     "Build/NewGamPlyaer_AnimationBasicD.framework.js",
